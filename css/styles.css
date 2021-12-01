@@ -32,14 +32,23 @@ a{
     font-family: 'Modak', cursive;
     
 }
+.img-inicio{
+    background: linear-gradient(360deg, #FFFF 43%, transparent);
+    padding-top: 50px;
+}
 
 .img-fundo{
     background-image: linear-gradient(#ffff 43%, #f0ecf320 75%, #f0ecf300 87%);
-    padding-top: 50px;
     margin-right: -20px;
     margin-left: -20px;
     width: 100%;
+}
 
+#bubble1{
+    text-align: left;
+    padding-left: 0px;
+    border-left: -80px;
+    margin-left: -10px;
 }
 #titulo{
     text-align: center;
@@ -58,17 +67,17 @@ a{
     text-align: left;
     color: bisque;
     display: inline-flex;
-    /*width: 350px;*/
-    padding-left: 5%;
-    font-size: 25px;
+    padding-left: 15%;
+    padding-top: 70px;
+    font-size: 30px;
 }
-#p{
+#p1{
     text-align: left;
 }
 
 .imagem-fausto-home{
 padding-left: 55%;
-margin-top: -390px;
+margin-top: -440px;
 }
 
 #mid{
@@ -90,17 +99,17 @@ margin-top: -390px;
 
 
 /*galeria*/
-#falso-h1{
+*#falso-h1{
     font-family: 'Modak', cursive;
     font-size: 54px;
     text-align: center;
     color: aliceblue;
     }
-    p{
+   /* p{
         font-family: 'Modak', cursive;
     font-size: 15px;
      
-    }
+    }*/
     #showroom1{
         display: inline-flex;
     }
@@ -235,8 +244,8 @@ margin-top: -390px;
     #img16{
         padding-right: 40px;
     }
-/*Rodapé*/
-.rodape{
+/**rodapé**/
+#rodape{
     text-align: left;
     padding-left: 0px;
     border-left: -80px;
@@ -249,7 +258,7 @@ margin-top: -390px;
     border-left: -80px;
     padding-left: 30px;
     border-right: 200px;
-    padding-right: 300px;
+    padding-right: 550px;
 }
 .footer{
     display: inline-flex;
@@ -259,7 +268,21 @@ margin-top: -390px;
 }
 #feito{
     padding-left: 75px;
+    font-family: 'Modak', cursive;
+    font-size: 24px;
+    color: aliceblue;
 }
-#caminhao{
-    padding-left: 85px;
+#obrigado{
+    font-family: 'Modak', cursive;
+font-size: 20px;
+text-align: center;
+color: aliceblue;
+padding-left: 80px;
+}
+#ovo{
+    padding-left: 400px;
+
+}
+#mid{
+    text-align: center;
 }
