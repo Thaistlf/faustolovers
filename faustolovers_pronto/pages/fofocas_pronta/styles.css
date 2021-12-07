@@ -1,0 +1,129 @@
+body {
+    background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+    min-height: 100vh;
+}
+.menubixo{
+    padding-top: 5px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   
+}
+.menubixo a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Merriweather', serif;
+}
+.poramenu {
+    text-align: center;
+    float: left;
+    padding:  20px 20px 2px 20px;
+    margin-left: 80px;
+    margin-right:   20px;   
+}
+#caminhao{
+    padding-left: 85px;
+}
+.fofocas{
+    font-family: 'Modak', cursive;
+    text-align: center;
+    color: aliceblue;
+    font-size: 52px;
+}
+.faustona{
+    text-align: right;
+    padding-right: 200px;
+}
+.pkkk{
+    text-align: left;
+    font-family: 'Merriweather', serif;
+    color: aliceblue;
+    font-size: 23px;
+    padding-left: 200px;
+}
+#p{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.texto2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.esq{
+    text-align: left;
+    padding-left: 200px;
+}
+.kkk{
+    text-align: right;
+    font-family: 'Merriweather' serif;
+    color: aliceblue;
+    font-size: 23px;
+    padding-right: 200px;
+}
+.texto3{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.textoo{
+    padding-left: 200px;
+    font-family: 'Merriweather' serif;
+    color: aliceblue;
+    font-size: 23px;
+    
+}
+.band{
+    padding-left: 370px;
+}
+
+#rodape{
+    text-align: left;
+    padding-left: 0px;
+    border-left: -80px;
+    margin-left: -10px;
+}
+ 
+#traquinas{
+    text-align: left;
+    margin-left: -10px;
+    border-left: -80px;
+    padding-left: 30px;
+    border-right: 200px;
+    padding-right: 550px;
+}
+.footer{
+    display: inline-flex;
+}
+#circle{
+    padding-left: 140px;
+}
+#feito{
+    padding-left: 10px;
+    font-family: 'Modak', cursive;
+    font-size: 24px;
+    color: aliceblue;
+    text-align: center;
+}
+#obrigado{
+font-family: 'Modak', cursive;
+font-size: 20px;
+text-align: center;
+color: aliceblue;
+padding-left: 0px;
+}
+#ovo{
+    padding-left: 400px;
+
+}
+
+#caminhao{
+    padding-left: 350px ;
+}
+#int{
+    font-family: 'Modak', cursive;
+    font-size: 24px;
+    color: aliceblue;
+
+}
+
