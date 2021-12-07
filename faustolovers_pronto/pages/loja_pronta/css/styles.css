@@ -1,0 +1,140 @@
+body {
+    background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);  
+}
+
+.poramenu {
+    text-align: center;
+    float: left;
+    padding:  20px 20px 2px 20px;
+    margin-left: 80px;
+    margin-right:   20px;   
+}
+
+#loja{
+    font-family: 'Modak' , cursive;
+    text-align: center;
+    color: aliceblue;
+    font-size: 56px;
+}
+
+.menubixo a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Merriweather', serif;
+}
+
+.menubixo {
+    padding-top: 5px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+} 
+
+
+
+.conteudo {
+    font-family: 'Modak', cursive;
+    
+}
+
+.img-fundo{
+    background-image: linear-gradient(#ffff 43%, #f0ecf320 75%, #f0ecf300 87%);
+    padding-top: 50px;
+    margin-right: -20px;
+    margin-left: -20px;
+}
+
+#titulo{
+    text-align: center;
+    color: #350096;
+    font-size: 50px;
+}
+
+#subtitulo{
+    text-align: center;
+    color: #350096;
+    font-size: 30px;
+}
+
+.texto{
+    font-family: 'Merriweather', serif;
+    text-align: left;
+    color: bisque;
+    display: inline-flex;
+    /*width: 350px;*/
+    padding-left: 5%;
+    font-size: 25px;
+}
+
+
+.imagem-fausto-home{
+padding-left: 55%;
+margin-top: -390px;
+}
+
+
+h2{
+    font-family: 'Modak', cursive;
+    font-size: 54px;
+    text-align: center;
+    color: aliceblue;
+    }
+
+    .secao-loja {
+        text-align: center;
+    }
+
+   .carrossel-fake {
+       display: grid;
+       grid-template-columns: 1fr 1fr 1fr 1fr;
+       text-align: center;
+   }
+
+
+
+/**rodapé**/
+#rodape{
+    text-align: left;
+    padding-left: 0px;
+    border-left: -80px;
+    margin-left: -10px;
+}
+ 
+#traquinas{
+    text-align: left;
+    margin-left: -10px;
+    border-left: -80px;
+    padding-left: 30px;
+    border-right: 200px;
+    padding-right: 550px;
+}
+.footer{
+    display: inline-flex;
+}
+#circle{
+    padding-left: 50px;
+}
+#feito{
+    padding-left: 75px;
+    font-family: 'Modak', cursive;
+    font-size: 24px;
+    color: aliceblue;
+}
+#obrigado{
+    font-family: 'Modak', cursive;
+font-size: 20px;
+text-align: center;
+color: aliceblue;
+padding-left: 80px;
+}
+#ovo{
+    padding-left: 400px;
+
+}
+#mid{
+    text-align: center;
+}
+
+#caminhao {
+    padding-left: 350px;
+}
